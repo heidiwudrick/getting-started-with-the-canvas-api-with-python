@@ -3,7 +3,7 @@
 This script will get you started with interfacing with the Canvas API using Python.
 
 ## Getting Started
-These instructions will get you a copy of the script up and running on your local machine for use with your own API tokens and Canvas domains. This script makes a request to the Canvas API that displays basic information about your user profile.
+These instructions will get you a copy of a script up and running on your local machine for use with your own API tokens and Canvas domains. This script makes a request to the Canvas API that displays basic information about your user profile.
 
 ### Prerequisites
 
@@ -12,7 +12,7 @@ These instructions will get you a copy of the script up and running on your loca
 
 ### Installation and execution
 
-*Not sure how to clone a repo? Check out this [helpful guide first!](https://codeburst.io/git-and-github-in-a-nutshell-b0a3cc06458f)*
+*Not sure how Git works? Check out this [helpful guide first!](https://codeburst.io/git-and-github-in-a-nutshell-b0a3cc06458f)*
 
 1. Open command prompt on Mac or command line on Windows.
 1. Clone this repo. `git clone https://github.com/ubccapico/getting-started-with-the-canvas-api-with-python.git`
